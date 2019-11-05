@@ -9,3 +9,7 @@
 	  title =               {{Comparative Web Search Questions}},
 	  year =                2020
 	}
+
+## Code structure
+### Notebooks:
+- rule_based_classification.ipynb to perform a rule-based classification (15 patterns in Russian)

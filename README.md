@@ -10,6 +10,8 @@
 	  year =                2020
 	}
 
+[[Paper Link](https://webis.de/downloads/publications/papers/stein_2020a.pdf)]
+
 ## Code structure
 ### Notebooks:
 - rule_based_classification.ipynb to perform a rule-based classification (15 patterns in Russian)

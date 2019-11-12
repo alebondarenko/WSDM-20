@@ -1,4 +1,4 @@
-# Comparative Web Search Questions.
+# Comparative Web Search Questions
 
 	@InProceedings{stein:2020a,
 	  author =              {Alexander Bondarenko and Pavel Braslavski and Michael V{\"o}lske and Rami Aly and Maik Fr{\"o}be and Alexander Panchenko and Chris Biemann and Benno Stein and Matthias Hagen},

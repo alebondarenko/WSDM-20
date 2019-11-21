@@ -76,3 +76,6 @@ python3 main.py --mode train --classifier cnn --use_cv --use_early_stop --num_fi
 *Example for testing model:* 
 python3 run_cnn.py --input_path path_to_test_data --cnn_path /checkpoints/your_cnn_model.h5 
 --vocabulary_path your_vocabulary_cnn --threshold 0.5
+
+## Data
+Annotated English question queries and pre-trained models are available from: [[Data Link](https://xxx)] 

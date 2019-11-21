@@ -18,7 +18,7 @@
 - question_binary_classification.ipynb to perform a rule-based classification
 - multiclass_classification.ipynb to perform a rule-based classification
 
-The two last notebooks require prior results produced by CNN and BERT
+The two last notebooks will use predictions produced by CNN and BERT as decision probabilities.
 
 ### Classification with Neural Networks
 
@@ -32,7 +32,7 @@ General Settings and Parameters for models:
 
 | Option |  Description | Default|
 |--------|-------------|---|
-| --sequence_length | Maximum sequence imput length of text | 100 |
+| --sequence_length | Maximum sequence input length of text | 100 |
 | --epochs | Number of epochs to train the classifier | 60 |
 | --use_statc | Whether the embedding layer should not be trainable | False |
 | --use_early_stop |Uses early stopping during training | False |

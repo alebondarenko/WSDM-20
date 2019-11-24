@@ -33,7 +33,6 @@ The system was tested on Debian/Ubuntu Linux with a GTX 1080TI and TITAN X.
 To train the CNN model contained in this repository, the following repository has been used: https://github.com/uhh-lt/BlurbGenreCollection-HMC
 
 *Example for training model:*  
-
 ```
 python3 main.py --mode train --classifier cnn --use_cv --use_early_stop --num_filters 100 
 --learning_rate 0.0001 --lang COMPQ_BINARY_YAN --sequence_length 15`

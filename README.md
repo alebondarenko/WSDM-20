@@ -36,7 +36,7 @@ To train the CNN model contained in this repository, the following repository ha
 python3 main.py --mode train --classifier cnn --use_cv --use_early_stop --num_filters 100 
 --learning_rate 0.0001 --lang COMPQ_BINARY_YAN --sequence_length 15`
 
-*Example for testing model:* 
+*Example for testing model:*
 python3 run_cnn.py --input_path path_to_test_data --cnn_path /checkpoints/your_cnn_model.h5 
 --vocabulary_path your_vocabulary_cnn --threshold 0.5
 
@@ -46,7 +46,7 @@ python3 run_cnn.py --input_path path_to_test_data --cnn_path /checkpoints/your_c
 2. Please ensure that the data directory specified when training/testing the model contain a file `train-binary.tsv` and `test-binary.tsv` for training and testing respectively.
 
 *Example for training model:*  
- python3 run_bert.py   --task_name COMPQ   --do_train --do_lower_case --data_dir path_to_train_data/   --bert_model bert-base-multilingual-uncased --max_seq_length 128   --train_batch_size 32   --learning_rate 2e-5   --num_train_epochs 3.0 --output_dir models/finetuned_bert_model
+python3 run_bert.py   --task_name COMPQ   --do_train --do_lower_case --data_dir path_to_train_data/   --bert_model bert-base-multilingual-uncased --max_seq_length 128   --train_batch_size 32   --learning_rate 2e-5   --num_train_epochs 3.0 --output_dir models/finetuned_bert_model
 
 
 *Example for testing model:*  

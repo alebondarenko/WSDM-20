@@ -14,9 +14,9 @@
 
 ## Code structure
 ### Notebooks:
-- rule_based_classification.ipynb to perform a rule-based classification (15 patterns in Russian)
-- question_binary_classification.ipynb to perform a rule-based classification
-- multiclass_classification.ipynb to perform a rule-based classification
+- [rule_based_classification.ipynb](notebooks/rule_based_classification.ipynb) to perform a rule-based classification (15 patterns in Russian)
+- [questions_binary_classification.ipynb](notebooks/questions_binary_classification.ipynb) to perform a rule-based classification
+- [multiclass_classification.ipynb](notebooks/multiclass_classification.ipynb) to perform a rule-based classification
 
 The two last notebooks will use predictions produced by CNN and BERT as decision probabilities.
 

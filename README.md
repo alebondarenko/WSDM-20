@@ -70,4 +70,4 @@ After running, the output should also already be created in the output directory
 
 
 ## Data
-Annotated English question queries and pre-trained models are available from: [[Data Link](https://xxx)] 
+Annotated English question queries and pre-trained models are available from: [[Data Link](https://cloud.uni-halle.de/s/pzcIvdpRWAI2VWA)]

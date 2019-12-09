@@ -46,6 +46,15 @@ python3 run_cnn.py --input_path path_to_test_data --cnn_path /checkpoints/your_c
 #### BERT
 
 1. Install requirements described in https://github.com/huggingface/pytorch-pretrained-BERT
+Please check out the version used for this particular publication
+```
+git clone -n <repo_name> 
+git checkout <commit_sha>
+
+commit_sha = 98dc30b21e3df6528d0dd17f0910ffea12bc0f33
+
+```
+
 2. Please ensure that the data directory specified when training/testing the model contain a file `train-binary.tsv` and `test-binary.tsv` for training and testing respectively.
 
 *Example for training model:*  

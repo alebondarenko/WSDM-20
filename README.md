@@ -47,7 +47,7 @@ python3 run_cnn.py --input_path path_to_test_data --cnn_path /checkpoints/your_c
 
 1. Install requirements described in https://github.com/huggingface/pytorch-pretrained-BERT
 
-Please check out the version used for this particular publication
+Please check out the version used for this particular publication.
 ```
 git clone -n <repo_name> 
 git checkout <commit_sha>

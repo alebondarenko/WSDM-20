@@ -88,11 +88,3 @@ After running, the output should also already be created in the output directory
 
 ## Data
 Annotated English question queries and pre-trained models for Russian are available from: [[Data Link](https://cloud.uni-halle.de/s/pzcIvdpRWAI2VWA)]
-
-
-## Refactoring in Progress:
-
-```
-git clone git@github.com:webis-de/WSDM-20.git
-git submodule update --init --recursive
-```

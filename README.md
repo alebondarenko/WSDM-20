@@ -48,7 +48,7 @@ python3 run_cnn.py --input_path path_to_test_data --cnn_path /checkpoints/your_c
 #### BERT
 
 BERT is based on the pre-trained models from https://github.com/huggingface/pytorch-pretrained-BERT
-with commit 98dc30b21e3df6528d0dd17f0910ffea12bc0f33
+with commit ```98dc30b21e3df6528d0dd17f0910ffea12bc0f33```
 
 1. Install requirements.
 
@@ -63,7 +63,7 @@ commit_sha = 98dc30b21e3df6528d0dd17f0910ffea12bc0f33
 
 2. Please ensure that the data directory specified when training/testing the model contain a file `train-binary.tsv` and `test-binary.tsv` for training and testing respectively.
 
-execute run_bert.py from this location [subfolder](https://github.com/alebondarenko/pytorch-transformers/tree/ee8d5f01e1a4ec55164f606c4fe542ec9a247e0c/examples)
+execute run_bert.py from examples subfolder
 
 *Example for training model:*  
 ```

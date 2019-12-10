@@ -1,3 +1,0 @@
-[submodule "scripts/transformers"]
-	path = scripts/transformers
-	url = git@github.com:alebondarenko/pytorch-transformers.git

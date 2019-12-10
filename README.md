@@ -47,9 +47,10 @@ python3 run_cnn.py --input_path path_to_test_data --cnn_path /checkpoints/your_c
 
 #### BERT
 
-BERT is based on the pre-trained models from https://github.com/huggingface/transformers
+BERT is based on the pre-trained models from https://github.com/huggingface/pytorch-pretrained-BERT
+with commit 98dc30b21e3df6528d0dd17f0910ffea12bc0f33
 
-1. Install requirements described in https://github.com/huggingface/pytorch-pretrained-BERT
+1. Install requirements.
 
 Please check out the version used for this particular publication.
 ```

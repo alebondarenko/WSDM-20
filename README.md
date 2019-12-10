@@ -62,6 +62,8 @@ commit_sha = 98dc30b21e3df6528d0dd17f0910ffea12bc0f33
 
 2. Please ensure that the data directory specified when training/testing the model contain a file `train-binary.tsv` and `test-binary.tsv` for training and testing respectively.
 
+execute run_bert.py from this location [subfolder](https://github.com/alebondarenko/pytorch-transformers/tree/ee8d5f01e1a4ec55164f606c4fe542ec9a247e0c/examples)
+
 *Example for training model:*  
 ```
 python3 run_bert.py   --task_name COMPQ   --do_train --do_lower_case --data_dir path_to_train_data/   --bert_model bert-base-multilingual-uncased --max_seq_length 128   --train_batch_size 32   --learning_rate 2e-5   --num_train_epochs 3.0 --output_dir models/finetuned_bert_model

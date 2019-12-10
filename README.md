@@ -37,7 +37,7 @@ To train the CNN model contained in this repository, the following repository ha
 *Example for training model:*  
 ```
 python3 main.py --mode train --classifier cnn --use_cv --use_early_stop --num_filters 100 
---learning_rate 0.0001 --lang COMPQ_BINARY_YAN --sequence_length 15`
+--learning_rate 0.0001 --lang COMPQ_BINARY_YAN --sequence_length 15
 ```
 
 *Example for testing model:*
@@ -46,6 +46,8 @@ python3 run_cnn.py --input_path path_to_test_data --cnn_path /checkpoints/your_c
 ```
 
 #### BERT
+
+BERT is based on the pre-trained models from https://github.com/huggingface/transformers
 
 1. Install requirements described in https://github.com/huggingface/pytorch-pretrained-BERT
 

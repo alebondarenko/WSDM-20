@@ -87,4 +87,4 @@ After running, the output should also already be created in the output directory
 
 
 ## Data
-Annotated English question queries and pre-trained models for Russian are available from: [[Data Link](https://cloud.uni-halle.de/s/pzcIvdpRWAI2VWA)]
+Annotated English question queries and pre-trained models for Russian are available from: [[Data Link](https://cloud.uni-halle.de/s/m8JdQJ5hMTEeZ9u)]

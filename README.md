@@ -16,7 +16,7 @@ This repository contains the data and code for reproducing results of the paper:
   url =                   {https://dl.acm.org/doi/abs/10.1145/3336191.3371848},
   year =                  2020
 }
-´´´
+
 
 [[Paper Link](https://webis.de/downloads/publications/papers/stein_2020a.pdf)]
 

@@ -18,7 +18,7 @@ This repository contains the data and code for reproducing results of the paper:
 }
 ```
 
-[[Paper Link](https://webis.de/downloads/publications/papers/stein_2020a.pdf)]
+[[Paper Link](https://webis.de/publications.html#bondarenko_2020a)]
 
 ## Code structure
 ### Notebooks:

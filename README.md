@@ -2,15 +2,21 @@
 
 This repository contains the data and code for reproducing results of the paper:
 
-	@InProceedings{stein:2020a,
-	  author =              {Alexander Bondarenko and Pavel Braslavski and Michael V{\"o}lske and Rami Aly and Maik Fr{\"o}be and Alexander Panchenko and Chris Biemann and Benno Stein and Matthias Hagen},
-	  booktitle =           {13th ACM International Conference on Web Search and Data Mining (WSDM 2020)},
-	  month =               feb,
-	  publisher =           {ACM},
-	  site =                {Houston, USA},
-	  title =               {{Comparative Web Search Questions}},
-	  year =                2020
-	}
+```
+@InProceedings{bondarenko:2020a,
+  author =                {Alexander Bondarenko and Pavel Braslavski and Michael V{\"o}lske and Rami Aly and Maik Fr{\"o}be and Alexander Panchenko and Chris Biemann and Benno Stein and Matthias Hagen},
+  booktitle =             {13th ACM International Conference on Web Search and Data Mining (WSDM 2020)},
+  editor =                {James Caverlee and Xia (Ben) Hu and Mounia Lalmas and Wei Wang},
+  ids =                   {stein:2020a},
+  month =                 feb,
+  pages =                 {52-60},
+  publisher =             {ACM},
+  site =                  {Houston, USA},
+  title =                 {{Comparative Web Search Questions}},
+  url =                   {https://dl.acm.org/doi/abs/10.1145/3336191.3371848},
+  year =                  2020
+}
+´´´
 
 [[Paper Link](https://webis.de/downloads/publications/papers/stein_2020a.pdf)]
 

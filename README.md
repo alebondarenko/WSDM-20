@@ -93,5 +93,5 @@ After running, the output should also already be created in the output directory
 
 
 ## Data
-Annotated English question queries are available from: [[Data Link](https://webis.de/data/webis-comparative-web-search-questions-20.html)]
+Annotated English question queries are available from: [[Data Link](https://webis.de/data#webis-compquestions-20)]
 Pre-trained models for Russian are available from: [[Data Link](https://cloud.uni-halle.de/s/9wVXVTUnqJciwyM)]
